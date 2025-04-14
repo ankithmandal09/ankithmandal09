@@ -37,7 +37,7 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 
 ## 💻 Languages and Tools:
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/Html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/b816f7ca-9fa0-42d3-976a-e42764ab7bd0" alt="HTML5" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -67,8 +67,11 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; border-radius: 50%; padding: 5px;">
   <img src="https://img.icons8.com/color/512/chakra-ui.png" alt="Chakra UI" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; border-radius: 50%; padding: 5px;">
-  <img src="https://github.com/user-attachments/assets/ed678ba3-3291-4c2a-a571-71cd91fea081" alt="Chakra UI" width="40" height="40"/>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer" style="display: inline-block; background: white; border-radius: 50%; padding: 5px;">
+  <img src="https://github.com/user-attachments/assets/ed678ba3-3291-4c2a-a571-71cd91fea081" alt="Firebase" width="40" height="40"/>
+</a>&nbsp;
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" style="display: inline-block; background: white; border-radius: 50%; padding: 5px;">
+  <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="VsCode" width="40" height="40"/>
 </a>&nbsp;
 </p>
 
