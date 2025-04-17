@@ -22,13 +22,13 @@ I'm just a curious human with a passion for turning caffeine into code and pixel
 
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ankith-mandal-030296276" target="_blank">
+  <a href="www.linkedin.com/in/ankith-mandal-030296276" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/ankith.mandal.9" target="_blank">
+  <a href="https://www.facebook.com/ankith.mandal.9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/ankit_mandal_9/" target="_blank">
+  <a href="https://www.instagram.com/ankit_mandal_9/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
